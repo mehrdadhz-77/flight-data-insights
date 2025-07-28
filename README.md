@@ -5,9 +5,9 @@ This project focuses on analyzing U.S. airline and airport data to uncover key p
 ---
 
 ## 📊 Datasets Used
-- `[Airport_Codes.csv](https://drive.google.com/file/d/1VHpXYTvCCAo2V_1WRj-29fQO77ZbUlLy/view?usp=drive_link)`: Metadata about airports including size and location.
-- `[Flights.csv](https://drive.google.com/file/d/1R3i1mksuBlPGqMXbhnTZCxEb4dZkPo-F/view?usp=drive_link)`: Flight-level data with origin, destination, and route metrics.
-- `[Tickets.csv](https://drive.google.com/file/d/12BvYr4LTUIZ-gYyfmktatQRQneMDCVP-/view?usp=drive_link)`: Information about airline carriers.
+- [Airport_Codes.csv](https://drive.google.com/file/d/1VHpXYTvCCAo2V_1WRj-29fQO77ZbUlLy/view?usp=drive_link): Metadata about airports including size and location.
+- [Flights.csv](https://drive.google.com/file/d/1R3i1mksuBlPGqMXbhnTZCxEb4dZkPo-F/view?usp=drive_link): Flight-level data with origin, destination, and route metrics.
+- [Tickets.csv](https://drive.google.com/file/d/12BvYr4LTUIZ-gYyfmktatQRQneMDCVP-/view?usp=drive_link): Information about airline carriers.
 
 ---
 
